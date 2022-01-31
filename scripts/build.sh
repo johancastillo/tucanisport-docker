@@ -1,0 +1,1 @@
+docker build  -t "tucanisport_docker:dockerfile" .
